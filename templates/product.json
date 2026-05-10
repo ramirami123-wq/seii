@@ -148,6 +148,39 @@
       ],
       "settings": {}
     },
+    "image_with_text_8YkwVd": {
+      "type": "image-with-text",
+      "blocks": {
+        "item_BrjwQF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1773757232_phpc0fd05df0f58ctWHoaQ.jpg",
+            "tab_label": "Item",
+            "subheading": "GENTLE HEATED TECHNOLOGY",
+            "title": "Effortless Curl. Zero Damage.",
+            "content": "<p>Forget painful clamps and pinching. Our gentle heated curler uses safe, controlled warmth to lift your lashes naturally — giving you that wide-eyed, salon-quality curl that lasts all day. Just glide, hold for a few seconds, and watch your lashes lift effortlessly.</p>",
+            "button_text": "Discover the Curl",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_BrjwQF"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
     "blocks_TXJzJC": {
       "type": "_blocks",
       "blocks": {
@@ -183,49 +216,18 @@
       ],
       "settings": {}
     },
-    "image_with_text_8YkwVd": {
-      "type": "image-with-text",
-      "blocks": {
-        "item_BrjwQF": {
-          "type": "item",
-          "settings": {
-            "tab_label": "Item",
-            "subheading": "",
-            "title": "",
-            "content": "<p><br/>This Makeup Pouch is designed to keep your essentials organized, accessible, and ready wherever you go.</p><p>With its spacious interior and smart compartments, it easily stores cosmetics, skincare, toiletries, and everyday items in one neat place.<br/><br/></p>",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_BrjwQF"
-      ],
-      "name": "Image with text",
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "full_width",
-        "background_overlap": "image",
-        "image_position": "left",
-        "text_alignment": "center",
-        "cycle_speed": 8,
-        "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
     "image_with_text_XrnFrQ": {
       "type": "image-with-text",
       "blocks": {
         "item_GpEwj6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1773757232_phpopfs4dlho262afoSJ5b.jpg",
             "tab_label": "",
-            "subheading": "",
-            "title": "",
-            "content": "<p><br/>Stylish yet practical, this pouch helps you stay prepared without adding bulk to your bag. Whether at home or on the move, Nazzemni makes organization simple and elegant. ✨<br/><br/></p>",
-            "button_text": "",
+            "subheading": "PRECISION ELECTRIC TRIMMER",
+            "title": "Define. Shape. Perfect.",
+            "content": "<p>Switch to the precision trimmer to clean up strays, define your shape, and finish your brow look with sharp, salon-level results. Lightweight and easy to control — no salon visit, no stress, no mistakes. Just smooth, polished brows in seconds.</p>",
+            "button_text": "Shop Now",
             "button_link": ""
           }
         }
@@ -253,7 +255,7 @@
         "item_77LR69": {
           "type": "item",
           "settings": {
-            "row_heading": "Large capacity — fits all essentials in one pouch",
+            "row_heading": "Gentle heated curl — no pinching or damage",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -263,7 +265,7 @@
         "item_dEPCJH": {
           "type": "item",
           "settings": {
-            "row_heading": "Lightweight & travel-friendly",
+            "row_heading": "Built-in electric brow trimmer",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -273,7 +275,7 @@
         "item_KWPwtH": {
           "type": "item",
           "settings": {
-            "row_heading": "Stylish modern design",
+            "row_heading": "2-in-1 compact design",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -283,7 +285,7 @@
         "item_jEyeCX": {
           "type": "item",
           "settings": {
-            "row_heading": "Durable materials for daily use",
+            "row_heading": "USB rechargeable & travel-ready",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -426,36 +428,36 @@
         "question_adqrYK": {
           "type": "question",
           "settings": {
-            "title": "Is the pouch suitable for travel?",
-            "answer": "<p>Yes! The Nazzemni Makeup Pouch is lightweight, compact, and travel-friendly — ideal for vacations, business trips, gym bags, or everyday use.</p>"
+            "title": "How does the heated curler work?",
+            "answer": "<p>The curler uses gentle, controlled heat to lift and curl your lashes naturally — without clamping or pinching. Just turn it on, let it warm up for about 10 seconds, then gently press it against your lashes from base to tip. Hold for 5–10 seconds and release. Your lashes will stay lifted all day with a soft, natural curl.</p>"
           }
         },
         "question_TDP7NK": {
           "type": "question",
           "settings": {
-            "title": "Does it have compartments inside?",
-            "answer": "<p>Absolutely. It features multiple partitions to help you keep items organized and easy to find.</p>"
+            "title": "Is the heat safe for my lashes?",
+            "answer": "<p>Absolutely. The heat is specifically designed to be warm enough to curl your lashes effectively, but never hot enough to damage them or your skin. It's gentler than traditional clamping curlers, which can pinch, snap lashes, or pull them out.</p>"
           }
         },
         "question_hPGXCN": {
           "type": "question",
           "settings": {
-            "title": "Can it be used for things other than makeup?",
-            "answer": "<p>Of course! Many customers use it for toiletries, tech accessories, stationery, or small personal items.<br/></p>"
+            "title": "How do I use the eyebrow trimmer?",
+            "answer": "<p>Just switch attachments and turn it on. Glide the precision trimmer gently along the edges of your brows to clean up stray hairs and define your shape. The blade is small and precise, making it easy to get clean, sharp lines — even for beginners.</p>"
           }
         },
         "question_7Rxwez": {
           "type": "question",
           "settings": {
-            "title": "Is this a good gift option?",
-            "answer": "<p>Definitely. Its stylish design and practicality make it a great gift for friends, family, or anyone who loves staying organized.</p>"
+            "title": "How is it powered?",
+            "answer": "<p>The device is USB rechargeable — just plug it in with the included cable when the battery runs low. A full charge lasts for multiple uses, and there are no batteries to replace. Perfect for travel and everyday use on the go.</p>"
           }
         },
         "question_Pzgd7t": {
           "type": "question",
           "settings": {
-            "title": "Is it lightweight to carry?",
-            "answer": "<p>Yes, it’s designed to be portable and easy to carry without adding bulk to your bag. </p>"
+            "title": "Is it good for beginners?",
+            "answer": "<p>Yes! It's specifically designed to be beginner-friendly. The heated curler doesn't require any technique — just press and hold. The trimmer's precision design makes brow shaping easy and forgiving. You'll get salon-quality results from the very first use.</p>"
           }
         }
       },
