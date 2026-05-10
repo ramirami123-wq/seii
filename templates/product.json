@@ -100,6 +100,7 @@
       "block_order": [
         "description"
       ],
+      "disabled": true,
       "settings": {}
     },
     "product-recommendations": {
@@ -147,6 +148,41 @@
       ],
       "settings": {}
     },
+    "blocks_TXJzJC": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_adef03d_zf6LGk": {
+          "type": "ai_gen_block_adef03d",
+          "name": "Free delivery on orders",
+          "settings": {
+            "text_1": "Free Delivery  on orders over $40",
+            "text_2": "Free Delivery  on orders over $40",
+            "text_3": "Free Delivery  on orders over $40",
+            "text_4": "Free Delivery  on orders over $40",
+            "show_icon": false,
+            "icon_type": "star",
+            "icon_size": 20,
+            "icon_color": "#0c1b54",
+            "icon_text_spacing": 8,
+            "text_size": 16,
+            "text_weight": "500",
+            "text_transform": "none",
+            "text_color": "#000000",
+            "speed": 5,
+            "pause_on_hover": true,
+            "item_spacing": 60,
+            "padding_vertical": 10,
+            "desktop_width_percent": 100,
+            "background_color": "#f7f7f7"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_adef03d_zf6LGk"
+      ],
+      "settings": {}
+    },
     "image_with_text_8YkwVd": {
       "type": "image-with-text",
       "blocks": {
@@ -165,7 +201,6 @@
       "block_order": [
         "item_BrjwQF"
       ],
-      "disabled": true,
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
@@ -198,7 +233,6 @@
       "block_order": [
         "item_GpEwj6"
       ],
-      "disabled": true,
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
@@ -456,6 +490,7 @@
     "product-recommendations",
     "1772112756b71eda01",
     "image_with_text_8YkwVd",
+    "blocks_TXJzJC",
     "image_with_text_XrnFrQ",
     "com_6hdjLn",
     "faq_cbkQ3V",
