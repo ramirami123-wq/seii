@@ -36,7 +36,7 @@
     "product_low_stock_text_color": "#d2545a",
     "heading_font": "poppins_n7",
     "heading_font_size": "large",
-    "heading_text_transform": "normal",
+    "heading_text_transform": "uppercase",
     "text_font": "roboto_condensed_n4",
     "text_font_size": 15,
     "currency_code_enabled": false,
