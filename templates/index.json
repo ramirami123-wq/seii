@@ -94,7 +94,7 @@
         "buy_buttons_G7pwtX": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": false,
             "atc_button_background": "rgba(0,0,0,0)",
             "atc_button_text_color": "rgba(0,0,0,0)",
