@@ -65,12 +65,6 @@
     "featured_product_qm78ER": {
       "type": "featured-product",
       "blocks": {
-        "liquid_4nfgXf": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"padding: 14px 18px; background-color: #FFF5F2; border-radius: 12px; margin: 12px 0; line-height: 1.8; font-size: 15px; border-left: 4px solid #C9A89A;\">\n  <div>✨ <strong>Gentle Heated Curl</strong> — lasting lift without pinching or damage</div>\n  <div>✂️ <strong>Precision Brow Trimmer</strong> — clean, defined shaping in seconds</div>\n  <div>🌸 <strong>Travel-Ready Design</strong> — sleek, lightweight, USB rechargeable</div>\n  <div>💄 <strong>Beginner-Friendly</strong> — salon-quality results, no skill needed</div>\n</div>"
-          }
-        },
         "liquid_B99Ag8": {
           "type": "liquid",
           "settings": {
@@ -110,7 +104,6 @@
         }
       },
       "block_order": [
-        "liquid_4nfgXf",
         "liquid_B99Ag8",
         "liquid_rJ676C",
         "variant_picker_wEqQPV",
